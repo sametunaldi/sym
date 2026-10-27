@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.SymphonyLite" parent="android:Theme.Material.NoActionBar" />
+</resources>
